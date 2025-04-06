@@ -1,5 +1,7 @@
 # i-miss-my-files
 
+Script I am working on to restore all my files if my storage server gets nuked
+
 ## Goals
 
 - Written in Go
@@ -10,4 +12,3 @@
 - Header comments
 - Script takes less than 24 hours to run
 - No ChatGPT
-
